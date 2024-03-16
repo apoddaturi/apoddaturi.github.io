@@ -1,7 +1,7 @@
 # Portfolio - apoddaturi.github.io
 
 ## Introduction
-Words that run apoddaturihttps://github.com/apoddaturihub.io resides in this repository
+Words that run apoddaturi.github.io resides in this repository
 
 - **Vanila JS**
 
