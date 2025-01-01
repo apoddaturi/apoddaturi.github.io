@@ -17,9 +17,11 @@ git clone apoddaturi/apoddaturi.github.io
 
 ## License
 
-1. You are free to use this code as inspiration.
-2. Please do not copy it directly.
-3. Crediting the author is appreciated.
+1. You are free to use this code as needed.
+2. Crediting the author is appreciated.
 
-Please remove all of my personal information (blog posts, images, etc.)
+Please change information (blog posts, images, etc.)
 ```
+
+
+```https://www.svgrepo.com/vectors/golang/``` - SVG Website
